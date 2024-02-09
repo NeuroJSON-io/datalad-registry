@@ -1,0 +1,9 @@
+{
+"_id":"000243",
+"_rev":"1-fb56d97bbc40a651ce737d701dc4e810",
+"dataset_description.json":{"Name":"MRI data from a human ex vivo brainstem specimen","Description":"Magnetic resonance imaging (MRI) was used to acquire a 50 um resolution anatomical image of a human brainstem","BIDSVersion":"1.0","DatasetType":"raw","License":"CC-BY-4.0"},
+"dandiset.yaml":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=datalad-registry&doc=000243&size=2282&file=.%2fdandiset.yaml%a"},
+"participants.tsv":{"Name":["sub-S01"],"Age":[65],"Sex":["M"]},
+"sub-S01":{"anat":{"sub-S01_T2w.json":{"MagneticFieldStrength":"7","Manufacturer":"Agilent Technologies","PulseSequenceType":"GRE","RepititionTime":"0.050","EchoTime":"0.010","FlipAngle":"60","ReceiveCoilName":"RF receive and transmit were achieved with a 65 mm inner diameter quadrature RF coil from (M2M Imaging, Cleveland, OH)"},"sub-S01_T2w.nii.gz":{"_DataLink_":"https://neurojson.org/io/stat.cgi?action=get&db=datalad-registry&doc=000243&file=sub-S01/anat/sub-S01_T2w.nii.gz&size=3055088659"}}},
+"_revs_info":[{"rev":"1-fb56d97bbc40a651ce737d701dc4e810","status":"available"}]
+}
